@@ -1,0 +1,8 @@
+Olá Mundo, meu nome é Guilherme!
+
+Comando git - 
+
+git init
+git status
+git add ""
+git add . - adiciona todos os arquivos 
