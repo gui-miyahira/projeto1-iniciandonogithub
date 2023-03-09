@@ -8,4 +8,5 @@ git add ""
 git add . - adiciona todos os arquivos 
 git commit -m "" - criar versoes do codigo
 git remote add orign ___ - inserir o link do repositorio
+git push --set-upstream- orign master
 git push
