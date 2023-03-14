@@ -10,3 +10,11 @@ git commit -m "" - criar versoes do codigo
 git remote add orign ___ - inserir o link do repositorio
 git push --set-upstream- orign master
 git push
+git reflog - informa todas as versoes do codigo
+git reset --hard [ID] - retorna ou avanca para determinada versao
+git branch - mostra as branchs
+git branch staging - cria uma nova branch
+git checkout staging - seleciona a nova branch
+
+
+
